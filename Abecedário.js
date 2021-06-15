@@ -1,4 +1,4 @@
-function solucao(letra, palavras) {
+function solucao (letra, palavras) {
 	//seu codigo aqui
     let errou = []
 for (let item of palavras) {
